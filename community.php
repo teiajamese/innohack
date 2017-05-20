@@ -555,10 +555,10 @@
 						<div class="column width-12">
 							<ul>
 								<li><a class="active" href="#" data-filter="*">All</a></li>
-								<li><a href="#" data-filter=".design">Design</a></li>
-								<li><a href="#" data-filter=".identity">Identity</a></li>
-								<li><a href="#" data-filter=".photography">Photograhy</a></li>
-								<li><a href="#" data-filter=".application">Applications</a></li>
+								<li><a href="#" data-filter=".design">Washington DC</a></li>
+								<li><a href="#" data-filter=".identity">New York</a></li>
+								<li><a href="#" data-filter=".photography">Atlanta</a></li>
+								<li><a href="#" data-filter=".application">Boston</a></li>
 							</ul>
 						</div>
 					</div>

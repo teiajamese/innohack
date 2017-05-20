@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "username";
-$password = "password";
+$servername = "162.243.45.50";
+$username = "innohackr";
+$password = "innohackrpassword";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);

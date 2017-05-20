@@ -27,330 +27,6 @@
 </head>
 <body class="shop">
 
-	<!-- Side Navigation Menu -->
-	<aside class="side-navigation-wrapper enter-right" data-no-scrollbar data-animation="push-in">
-		<div class="side-navigation-scroll-pane">
-			<div class="side-navigation-inner">
-				<div class="side-navigation-header">
-					<div class="navigation-hide side-nav-hide">
-						<a href="#">
-							<span class="icon-cancel medium"></span>
-						</a>
-					</div>
-				</div>
-				<nav class="side-navigation">
-					<ul>
-						<li>
-							<a href="#" class="contains-sub-menu">Demos</a>
-							<ul class="sub-menu">
-								<li>
-									<a href="index-mobile-application.html">Mobile Application</a>
-								</li>
-								<li>
-									<a href="index-web-application.html">Web Application</a>
-								</li>
-								<li>
-									<a href="index-barber-shop.html">Barber Shop</a>
-								</li>
-								<li>
-									<a href="index-design-agency.html">Agency</a>
-								</li>
-								<li>
-									<a href="index-travel-agency.html">Travel Agency</a>
-								</li>
-								<li>
-									<a href="index-restaurant.html">Restaurant</a>
-								</li>
-								<li>
-									<a href="index-resume.html">Resume</a>
-								</li>
-								<li>
-									<a href="index-photo-studio.html">Photo Studio</a>
-								</li>
-								<li>
-									<a href="index-architecture.html">Architecture</a>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<a href="#" class="contains-sub-menu">Pages</a>
-							<ul class="sub-menu">
-								<li>
-									<a href="about-style-one.html">About Original</a>
-								</li>
-								<li>
-									<a href="about-style-two.html">About Style 2</a>
-								</li>
-								<li>
-									<a href="about-style-three.html">About Style 3</a>
-								</li>
-								<li>
-									<a href="services-style-one.html">Services Original</a>
-								</li>
-								<li>
-									<a href="services-style-two.html">Services Style 2</a>
-								</li>
-								<li>
-									<a href="services-style-three.html">Services Style 3</a>
-								</li>
-								<li>
-									<a href="contact-style-two.html">Contact Style 2</a>
-								</li>
-								<li>
-									<a href="contact-style-three.html">Contact Style 3</a>
-								</li>
-								<li>
-									<a href="404.html">404</a>
-								</li>
-								<li>
-									<a href="500.html">500</a>
-								</li>
-								<li>
-									<a href="maintenance.html">Maintenance</a>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<a href="#" class="contains-sub-menu">Blog</a>
-							<ul class="sub-menu">
-								<li>
-									<a href="blog.html">3 Column Grid</a>
-								</li>
-								<li>
-									<a href="blog-four-columns-full-width.html">4 Column Full Width Grid</a>
-								</li>
-								<li>
-									<a href="blog-sidebar-right-with-media.html">Blog Index Sidebar Right</a>
-								</li>
-								<li>
-									<a href="blog-sidebar-left-with-media.html">Blog Index Sidebar Left</a>
-								</li>
-								<li>
-									<a href="blog-wide-no-sidebar.html">Blog Without Sidebar</a>
-								</li>
-								<li>
-									<a href="blog-masonry-creative.html">Blog Creative</a>
-								</li>
-								<li>
-									<a href="blog-masonry-creative-with-parallax.html">Blog Creative 2</a>
-								</li>
-								<li>
-									<a href="blog-single-post-sidebar-right.html">Single Post Sidebar Right</a>
-								</li>
-								<li>
-									<a href="blog-single-post-sidebar-left.html">Single Post Sidebar Left</a>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<a href="#" class="contains-sub-menu">Shop</a>
-							<ul class="sub-menu">
-								<li>
-									<a href="shop-grid.html">Shop Grid</a>
-								</li>
-								<li>
-									<a href="shop-creative.html">Shop Creative</a>
-								</li>
-								<li>
-									<a href="shop-sidebar-right.html">Shop Sidebar Right</a>
-								</li>
-								<li>
-									<a href="single-product.html">Single Product</a>
-								</li>
-								<li>
-									<a href="single-product-with-gallery.html">Product With Gallery</a>
-								</li>
-								<li>
-									<a href="single-product-with-header.html">Product With Header</a>
-								</li>
-								<li>
-									<a href="single-product-with-parallax.html">Product With Parallax</a>
-								</li>
-								<li>
-									<a href="single-product-on-sale.html">Product On Sale</a>
-								</li>
-								<li>
-									<a href="single-product-no-stock.html">Product Out Of Stock</a>
-								</li>
-								<li>
-									<a href="cart.html">Cart</a>
-								</li>
-								<li>
-									<a href="checkout.html">Checkout</a>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<a href="#" class="contains-sub-menu">Folio</a>
-							<ul class="sub-menu">
-								<li>
-									<a href="portfolio-three-columns.html">3 Column Grid Default</a>
-								</li>
-								<li>
-									<a href="portfolio-three-columns-alternative.html">3 Column Grid Alt</a>
-								</li>
-								<li>
-									<a href="portfolio-three-columns-full-width.html">3 Column Grid Full Width</a>
-								</li>
-								<li class="current">
-									<a href="portfolio-three-columns-full-width-no-margins.html">3 Column Grid Full Width No Margins</a>
-								</li>
-								<li>
-									<a href="portfolio-four-columns-full-width-alternative.html">4 Column Grid Full Width Alt</a>
-								</li>
-								<li>
-									<a href="portfolio-four-columns-full-width-no-margins.html">4 Column Grid Full Width No Margins</a>
-								</li>
-								<li>
-									<a href="portfolio-masonry-grid.html">Full Width Masonry Grid</a>
-								</li>
-								<li>
-									<a href="portfolio-masonry-grid-no-margins.html">Full Width Masonry Grid No Margins</a>
-								</li>
-								<li>
-									<a href="project-style-one.html">Project Style One</a>
-								</li>
-								<li>
-									<a href="project-style-two.html">Project Style Two</a>
-								</li>
-								<li>
-									<a href="project-style-three.html">Project Style Three</a>
-								</li>
-								<li>
-									<a href="project-style-four.html">Project Style Four</a>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<a href="#" class="contains-sub-menu">Elements</a>
-							<ul class="sub-menu">
-								<li>
-									<a href="elements-accordions.html">Accordions</a>
-								</li>
-								<li>
-									<a href="elements-buttons.html">Buttons</a>
-								</li>
-								<li>
-									<a href="elements-feature-columns.html">Feature Columns</a>
-								</li>
-								<li>
-									<a href="elements-footers.html">Footers</a>
-								</li>
-								<li>
-									<a href="elements-forms.html">Forms</a>
-								</li>
-								<li>
-									<a href="elements-lightbox.html">Lightbox</a>
-								</li>
-								<li>
-									<a href="elements-maps.html">Maps</a>
-								</li>
-								<li>
-									<a href="elements-pricing-tables.html">Pricing Tables</a>
-								</li>
-								<li>
-									<a href="elements-progress-bars.html">Progress Bars</a>
-								</li>
-								<li>
-									<a href="elements-rollovers.html">Rollovers</a>
-								</li>
-								<li>
-									<a href="elements-signup-forms.html">Subscribe Forms</a>
-								</li>
-								<li>
-									<a href="elements-slider.html">Slider</a>
-								</li>
-								<li>
-									<a href="elements-tabs.html">Tabs</a>
-								</li>
-								<li>
-									<a href="elements-testimonials.html">Testimonials</a>
-								</li>
-								<li>
-									<a href="elements-video.html">Video</a>
-								</li>
-							</ul>
-						</li>
-					</ul>
-				</nav>
-				<nav class="side-navigation nav-block">
-					<ul>
-						<li>
-							<a href="#" class="contains-sub-menu cart">Cart <span class="cart-indication"><span class="badge">3</span></span></a>
-							<ul class="sub-menu custom-content cart-overview">
-								<li class="cart-item">
-									<a href="single-product.html" class="product-thumbnail">
-										<img src="images/shop/cart/cart-thumb-small.jpg" alt="" />
-									</a>
-									<div class="product-details">
-										<a href="single-product.html" class="product-title">
-											Cotton Jump Suit
-										</a>
-										<span class="product-quantity">2 x</span>
-										<span class="product-price"><span class="currency">$</span>15.00</span>
-										<a href="#" class="product-remove icon-cancel"></a>
-									</div>
-								</li>
-								<li class="cart-item">
-									<a href="single-product.html" class="product-thumbnail">
-										<img src="images/shop/cart/cart-thumb-small-2.jpg" alt="" />
-									</a>
-									<div class="product-details">
-										<a href="single-product.html" class="product-title">
-											Crew Neck U.S Sweater
-										</a>
-										<span class="product-quantity">2 x</span>
-										<span class="product-price"><span class="currency">$</span>45.00</span>
-										<a href="#" class="product-remove icon-cancel"></a>
-									</div>
-								</li>
-								<li class="cart-item">
-									<a href="single-product.html" class="product-thumbnail">
-										<img src="images/shop/cart/cart-thumb-small-3.jpg" alt="" />
-									</a>
-									<div class="product-details">
-										<a href="single-product.html" class="product-title">
-											Cross Summer Top
-										</a>
-										<span class="product-quantity">2 x</span>
-										<span class="product-price"><span class="currency">$</span>17.00</span>
-										<a href="#" class="product-remove icon-cancel"></a>
-									</div>
-								</li>
-								<li class="cart-subtotal">
-									Sub Total
-									<span class="amount"><span class="currency">$</span>77.00</span>
-								</li>
-								<li class="cart-actions">
-									<a href="cart.html" class="view-cart">View Cart</a>
-									<a href="checkout.html" class="checkout"><span class="icon-check"></span> Checkout</a>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<a href="#" class="contains-sub-menu">Search</a>
-							<ul class="sub-menu custom-content">
-								<li>
-									<div class="search-form-container site-search">
-										<form action="#" method="get" novalidate>
-											<div class="field-wrapper">
-												<input type="text" name="search" class="form-search form-element no-margin-bottom" placeholder="type &amp; hit enter...">
-											</div>
-										</form>
-										<div class="form-response"></div>
-									</div>
-								</li>
-							</ul>
-						</li>
-					</ul>
-				</nav>
-				<div class="side-navigation-footer">
-					<p class="copyright no-margin-bottom">&copy; 2014 THEMEMOUNTAIN.</p>
-				</div>
-			</div>
-		</div>
-	</aside>
-	<!-- Side Navigation Menu End -->
 
 	<div class="wrapper reveal-side-navigation">
 		<div class="wrapper-inner">
@@ -894,7 +570,7 @@
 								<div class="grid-item grid-sizer photography">
 									<div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
 										<a class="overlay-link" href="project-style-one.html">
-											<img src="images/portfolio/grid/large-margins/project-1-landscape.jpg" alt=""/>
+											<img src="images/portfolio/grid/large-margins/image1.jpg" alt=""/>
 											<span class="overlay-info">
 												<span>
 													<span>
@@ -908,7 +584,7 @@
 								<div class="grid-item portrait application">
 									<div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
 										<a class="overlay-link" href="project-style-one.html">
-											<img src="images/portfolio/grid/large-margins/project-13-portrait.jpg" alt=""/>
+											<img src="images/portfolio/grid/large-margins/image2.jpg" alt=""/>
 											<span class="overlay-info">
 												<span>
 													<span>
@@ -922,7 +598,7 @@
 								<div class="grid-item design identity">
 									<div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
 										<a class="overlay-link" href="project-style-one.html">
-											<img src="images/portfolio/grid/large-margins/project-7-landscape.jpg" alt=""/>
+											<img src="images/portfolio/grid/large-margins/image3.jpg" alt=""/>
 											<span class="overlay-info">
 												<span>
 													<span>
@@ -936,7 +612,7 @@
 								<div class="grid-item identity">
 									<div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
 										<a class="overlay-link" href="project-style-one.html">
-											<img src="images/portfolio/grid/large-margins/project-6-landscape.jpg" alt=""/>
+											<img src="images/portfolio/grid/large-margins/image4.jpg" alt=""/>
 											<span class="overlay-info">
 												<span>
 													<span>
@@ -950,7 +626,7 @@
 								<div class="grid-item portrait application identity">
 									<div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
 										<a class="overlay-link" href="project-style-one.html">
-											<img src="images/portfolio/grid/large-margins/project-14-portrait.jpg" alt=""/>
+											<img src="images/portfolio/grid/large-margins/image5.jpg" alt=""/>
 											<span class="overlay-info">
 												<span>
 													<span>
@@ -964,7 +640,7 @@
 								<div class="grid-item portrait design photography">
 									<div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
 										<a class="overlay-link" href="project-style-one.html">
-											<img src="images/portfolio/grid/large-margins/project-12-portrait.jpg" alt=""/>
+											<img src="images/portfolio/grid/large-margins/image6.jpg" alt=""/>
 											<span class="overlay-info">
 												<span>
 													<span>
@@ -978,7 +654,7 @@
 								<div class="grid-item design">
 									<div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
 										<a class="overlay-link" href="project-style-one.html">
-											<img src="images/portfolio/grid/large-margins/project-5-landscape.jpg" alt=""/>
+											<img src="images/portfolio/grid/large-margins/image7.jpg" alt=""/>
 											<span class="overlay-info">
 												<span>
 													<span>
@@ -992,7 +668,7 @@
 								<div class="grid-item design identity">
 									<div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
 										<a class="overlay-link" href="project-style-one.html">
-											<img src="images/portfolio/grid/large-margins/project-11-landscape.jpg" alt=""/>
+											<img src="images/portfolio/grid/large-margins/image8.jpg" alt=""/>
 											<span class="overlay-info">
 												<span>
 													<span>
@@ -1006,7 +682,7 @@
 								<div class="grid-item design identity">
 									<div class="thumbnail img-scale-in" data-hover-easing="easeInOut" data-hover-speed="700" data-hover-bkg-color="#ffffff" data-hover-bkg-opacity="0.9">
 										<a class="overlay-link" href="project-style-one.html">
-											<img src="images/portfolio/grid/large-margins/project-15-landscape.jpg" alt=""/>
+											<img src="images/portfolio/grid/large-margins/image9.jpg" alt=""/>
 											<span class="overlay-info">
 												<span>
 													<span>

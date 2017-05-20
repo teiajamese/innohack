@@ -541,7 +541,7 @@
 						<div class="column width-12">
 							<div class="title-container">
 								<div class="title-container-inner center">
-									<h1 class="inline no-margin-bottom">Portfolio 3 Cols Full Width</h1>
+									<h1 class="inline no-margin-bottom">Black Girl Vision</h1>
 								</div>
 							</div>
 						</div>
